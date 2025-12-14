@@ -1,0 +1,4 @@
+[2025-12-14T08:34:06.079195+00:00] Mukhoiran\MVCProject\Tests\LevelTest.ERROR: This is an error message [] []
+[2025-12-14T08:34:06.079348+00:00] Mukhoiran\MVCProject\Tests\LevelTest.CRITICAL: This is a critical message [] []
+[2025-12-14T08:34:06.079416+00:00] Mukhoiran\MVCProject\Tests\LevelTest.ALERT: This is an alert message [] []
+[2025-12-14T08:34:06.079483+00:00] Mukhoiran\MVCProject\Tests\LevelTest.EMERGENCY: This is an emergency message [] []
